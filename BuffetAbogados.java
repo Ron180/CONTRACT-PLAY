@@ -25,5 +25,4 @@ public class BuffetAbogados extends AppCompatActivity{
         Toast.makeText(this, "Contactado! \n Le llegara un correo pronto :D", Toast.LENGTH_LONG).show();
     }
 
-}
-
+} hola
