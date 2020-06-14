@@ -8,6 +8,7 @@ import android.widget.ArrayAdapter;
 import android.widget.AutoCompleteTextView;
 import android.widget.Toast;
 
+//Integrantes : Idme Calderon Romel Dudikoft , Machaca Hilasaca Ronald
 
 public class BuffetAbogadoS extends AppCompatActivity{
     String[] abogados = { "Claudio and Associates, P.C.","Moore Advocacy Group","Amir Ohebsion, a Professional Corporation","Alcalde Legal","Alan E. Jones, P.C.","Joe M. Hollomon & Associates, P.A.","Law Office of Randy S. Alpert","Axelrod Law Firm","Lutz & Associates, P.S.","Parton & Associates PLLC","Law Offices of Jeffrey I. Amtman","Hernández & Associates, P.C.","Miller, Rosnick, D’Amico, August & Butler, P.C.","Arellano & Phebus S.C.","Penichet & Alberga LLP","Federal Criminal Attorneys of Michigan"," ABAD BOLIVAR","ABAD CASTAÑEDA","ABAD COLAN","ABAD GONZALES","ABAD HEREDIA" }; @Override
