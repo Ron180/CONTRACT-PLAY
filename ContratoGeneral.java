@@ -7,7 +7,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Spinner;
 import android.widget.Toast;
-
+// desarrollado por dudykoft idme calderon.
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.example.contractplayfinal.db_firebase.Clases;
