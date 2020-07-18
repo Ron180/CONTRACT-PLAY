@@ -4,7 +4,7 @@ using UnityEngine;
 //
 public class CheckGround : MonoBehaviour
 {
-
+// desarrollado por ronald machaca.
     public static bool isGrounded;
 
 
