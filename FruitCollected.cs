@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+// desarrollado por Ronald Machaca.
 public class FruitCollected : MonoBehaviour
 {
     private void OnTriggerEnter2D(Collider2D collision)
