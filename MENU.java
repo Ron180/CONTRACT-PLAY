@@ -19,7 +19,7 @@ public class MENU extends AppCompatActivity {
         startActivity(new Intent("com.example.BUFFETDEABOGADOS"));
     }
     public void onClick5(View view){
-
+//
         startActivity(new Intent("com.example.REGISTRATE"));
     }
 }
