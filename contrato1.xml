@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity"
     android:background="#202732">
-
+//
     <TextView
         android:id="@+id/textView5"
         android:layout_width="wrap_content"
