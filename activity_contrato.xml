@@ -7,7 +7,7 @@
     android:background="@drawable/image7"
     tools:context=".MainActivity">
 
-
+//
     <Spinner
         android:id="@+id/spinnotaria"
         android:layout_width="194dp"
