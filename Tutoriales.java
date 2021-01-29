@@ -9,7 +9,7 @@ import android.widget.MediaController;
 import android.widget.VideoView;
 
 import androidx.appcompat.app.AppCompatActivity;
-
+//
 public class Tutoriales extends AppCompatActivity {
     VideoView videoView;
     @Override
