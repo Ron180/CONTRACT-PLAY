@@ -1,5 +1,5 @@
 package com.example.contractplayfinal.db_firebase;
-
+//
 public class Clases {
     String claseid, seccion, area, tema;
     public Clases(String claseid, String seccion, String area, String tema){
