@@ -1,5 +1,5 @@
 package com.example.contractplayfinal;
-// desarrollado por dudykolft idem calderon.
+
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import android.app.ProgressDialog;
