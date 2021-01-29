@@ -14,7 +14,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
-
+//
 public class Tipotramite extends AppCompatActivity  {
     EditText textBox;
     static final int READ_BLOCK_SIZE = 100;
